@@ -1,0 +1,65 @@
+input,button{
+  display: block;
+  margin: 10px;
+}
+
+body{
+  height: 100vh;
+  background: linear-gradient(#2A00B7,#42006C);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.signupcontainer{
+  background: #fff;
+  padding: 25px;
+}
+
+.dashboard{
+  background: #fff;
+  padding: 25px;
+}
+
+.logincontainer{
+  background: #fff;
+  padding: 25px; 
+}
+
+
+
+h1{
+  color: #3c009d;
+margin-bottom: 3px;
+}
+
+
+.underline{
+  width: 61px;
+  height:4px;
+  background: #3c009d;
+  border-radius: 9px;
+  margin-bottom: 20px;
+}
+
+
+button{
+  width: 180px;
+  height: 39px;
+  color:#fff;
+  background: #4c00b4;
+  border-radius: 50px;
+  font-size: 16px;
+  font-weight: 700;
+  cursor: pointer;
+}
+
+input{
+  padding: 0px 20px 10px 0px;
+  border-radius: 2px;
+}
+
+
+p{
+  font-size: 20px;
+}
